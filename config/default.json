@@ -1,0 +1,3 @@
+{
+	"mongoURI": "mongodb+srv://Eni090:Damilola1@bookappcluster.035tl.mongodb.net/BookApp?retryWrites=true&w=majority"
+}
